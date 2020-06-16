@@ -4,6 +4,6 @@
 
 > transformers
 
-Model | Acc | Recall| F1| Training Time
---- | --- | --- | --- | ---
-Bert_base|0.947112462006079|0.9635126777983921|0.955242182709994|494
+Model | Acc | Recall| F1| Training Time | epoch
+--- | --- | --- | --- | --- | ---
+Bert_base|0.947112462006079|0.9635126777983921|0.955242182709994|494 | 10
