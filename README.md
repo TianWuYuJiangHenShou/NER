@@ -5,6 +5,7 @@
 > transformers
 
 BertsForTokenClassification -> bertsModel + softmax
+ps:切换不同model只要修改不同的import以及对应预训练模型地址就行
 Model | Acc | Recall| F1| Training Time | epoch | lr
 --- | --- | --- | --- | --- | --- | ---
 Bert_base|0.947112462006079|0.9635126777983921|0.955242182709994|494 | 10 |5e-5
